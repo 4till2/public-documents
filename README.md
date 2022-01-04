@@ -1,2 +1,3 @@
-# public-documents
-Documents that are not quite blogs, but I want to have available as reference for others. The README provides any relevant context.
+[Fast Intelligence From Flowing News.pdf](https://github.com/yserkez/public-documents/blob/f2a48fa717cabe9bb7a23d1b4a4ec5dccd4f9085/Fast%20Intelligence%20From%20Flowing%20News.pdf) is a project spec for a public challenge I partook in. I wrote the spec to help our team align on an understanding of the problem and our proposed solution.
+
+[Real World Operational Problem and Solution](https://github.com/yserkez/public-documents/blob/f2a48fa717cabe9bb7a23d1b4a4ec5dccd4f9085/Real%20World%20Operational%20Problem%20and%20Solution.pdf) is a project spec I created for an old interview. The process of working through this particular problem was quite enjoyable so I have decided to share it here.
